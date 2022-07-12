@@ -1,6 +1,12 @@
 # Resume_V2videorayan
-this is a picture demo  of second version for Video Rayan project  build for Behbood rayan Company
+this is a picture demo  of next version for Video Rayan project  build for Behbood rayan Company
 
+# About this project
+
+next version for video conferencing coding with Html,css,jS,React js,Laravel-Livewire 
+i worked at front-end part
+
+The code is not displayed for security reasons
 
 ![1](https://user-images.githubusercontent.com/96224385/178583078-909fdc85-47ba-4966-bf6a-6a8ea11a59b6.jpg)
 ![2](https://user-images.githubusercontent.com/96224385/178583084-c6a8dcd2-ce37-4346-9ad4-1020024c24e8.jpg)
